@@ -70,7 +70,7 @@
 ## **离开微信，去哪儿？**
 > 移民 电报（Telegram），在没有黑暗的地方相见。
 
-事实上，互联网上已经有比微信更好用，更安全的社交产品：Telegram （电报）。
+事实上，互联网上已经有比微信更好用，更安全的社交产品：[Telegram](https://web.telegram.org/) （电报）。
 
 > Telegram 在2013年由杜洛夫兄弟正式发布。杜洛夫兄弟是[俄罗斯](https://zh.wikipedia.org/wiki/%E4%BF%84%E7%BD%97%E6%96%AF)最大的[社交网络服务](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E6%9C%8D%E5%8B%99)[VKontakte](https://zh.wikipedia.org/wiki/VKontakte)的创始者。Telegram Messenger LLP是独立的非营利公司，设立在[柏林](https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%9E%97)。截止2018年，全球范围已有2亿月活用户。
 
