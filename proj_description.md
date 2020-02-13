@@ -88,7 +88,6 @@ https://github.com/FreeFromGFW/telegramlist
 
 **可用的 MTPROTO (不定时更新) :**
 
-https://github.com/FreeFromGFW/LeaveWechat/blob/master/%E5%8F%AF%E7%94%A8telegram_proxy_%E6%B1%87%E6%80%BB.md
 
 ![](https://paper-attachments.dropbox.com/s_16D361C7C27E60B2A9BC5B5F5A303825ECE82F835FA5A2701247B36958104B1F_1581321067482_image.png)
 ![](https://paper-attachments.dropbox.com/s_16D361C7C27E60B2A9BC5B5F5A303825ECE82F835FA5A2701247B36958104B1F_1581323167085_image.png)
