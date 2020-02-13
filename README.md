@@ -70,10 +70,6 @@
 ## **离开微信，去 Telegram** 
 > 移民 电报（Telegram），在这儿实现自由人的自由联合
 
-```
-Telegram 在2013年由杜洛夫兄弟正式发布。杜洛夫兄弟是[俄罗斯](https://zh.wikipedia.org/wiki/%E4%BF%84%E7%BD%97%E6%96%AF)最大的[社交网络服务](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E6%9C%8D%E5%8B%99)[VKontakte](https://zh.wikipedia.org/wiki/VKontakte)的创始者。Telegram Messenger LLP是独立的非营利公司，设立在[柏林](https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%9E%97)。截止2018年，全球范围已有2亿月活用户。
-```
-
 墙外有一款社交通讯软件：Telegram（电报），它的设计哲学是开放，自由，安全，迥异于微信。为微信在作为社交通讯软件的功能，它也大多具备：
 
 
@@ -85,7 +81,8 @@ Telegram 在2013年由杜洛夫兄弟正式发布。杜洛夫兄弟是[俄罗斯
 
 而且，**Telegram 继承了真正的互联网精神。**它足够公开，群组，频道，机器人助手，都可以以网址链接的形态，只要设置为公开可见，就可被 Google 等搜索引擎直接检索，Telegram 和外部互联网没有任何阻隔。当你加入感兴趣的群组，又可结识更多志同道合的好友。人和人之间的可能性立即增大了。
 
-在 Telegram，人们不必欲言又止，不必担心被举报。当言论导向行动，人们立即可以创立频道和群组，组织起来。无论你是左派还是右派，无论你是民族主义者还是世界主义者，言论自由是一切观念和基于这些观念的行动的前提，我们每个人都应该享有。
+人们在言谈上应该享有免于恐惧的自由。无论你的立场是左派，右派，民族主义者，世界主义者或者吃瓜群众，言论自由是一切观念成立，一切行动被激发的前提，我们每个人都应该享有。
 
+*Telegram 在2013年由杜洛夫兄弟正式发布。杜洛夫兄弟是[俄罗斯](https://zh.wikipedia.org/wiki/%E4%BF%84%E7%BD%97%E6%96%AF)最大的[社交网络服务](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E6%9C%8D%E5%8B%99)[VKontakte](https://zh.wikipedia.org/wiki/VKontakte)的创始者。Telegram Messenger LLP是独立的非营利公司，设立在[柏林](https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%9E%97)。截止2018年，全球范围已有2亿月活用户。*
 
 
