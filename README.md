@@ -70,8 +70,9 @@
 ## **离开微信，去 Telegram** 
 > 移民 电报（Telegram），在这儿实现自由人的自由联合
 
-墙外有一款社交通讯软件：Telegram（电报），它的设计哲学是开放，自由，安全，迥异于微信。为微信在作为社交通讯软件的功能，它也大多具备：
+*Telegram 在2013年由杜洛夫兄弟正式发布。杜洛夫兄弟是[俄罗斯](https://zh.wikipedia.org/wiki/%E4%BF%84%E7%BD%97%E6%96%AF)最大的[社交网络服务](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E6%9C%8D%E5%8B%99)[VKontakte](https://zh.wikipedia.org/wiki/VKontakte)的创始者。Telegram Messenger LLP是独立的非营利公司，设立在[柏林](https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%9E%97)。截止2018年，全球范围已有2亿月活用户。*
 
+墙外有一款社交通讯软件：Telegram（电报），它的设计哲学是开放，自由，安全，迥异于微信。为微信在作为社交通讯软件的功能，它也大多具备：
 
 - 它有群组（group），可以替代微信群。但它的群组可以容纳 20 万人，且任何人都可以随意创建。
 - 它有频道（channel），可以替代公众号。频道可以向订阅者发送任何形式的文件，包括文章，图片，视频，频次不限。同样，任何人都可以免费创建，不需要任何审核。
@@ -83,6 +84,6 @@
 
 人们在言谈上应该享有免于恐惧的自由。无论你的立场是左派，右派，民族主义者，世界主义者或者吃瓜群众，言论自由是一切观念成立，一切行动被激发的前提，我们每个人都应该享有。
 
-*Telegram 在2013年由杜洛夫兄弟正式发布。杜洛夫兄弟是[俄罗斯](https://zh.wikipedia.org/wiki/%E4%BF%84%E7%BD%97%E6%96%AF)最大的[社交网络服务](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E6%9C%8D%E5%8B%99)[VKontakte](https://zh.wikipedia.org/wiki/VKontakte)的创始者。Telegram Messenger LLP是独立的非营利公司，设立在[柏林](https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%9E%97)。截止2018年，全球范围已有2亿月活用户。*
+
 
 
