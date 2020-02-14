@@ -1,5 +1,6 @@
 # 逃离微信宣言|FreeFromWechat Manifesto
 
+[项目说明](https://github.com/FreeFromGFW/FreeFromWechat/blob/master/proj_description.md)
 
 > 天下苦微信久矣！
 
