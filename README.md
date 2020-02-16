@@ -2,6 +2,8 @@
 
 [项目说明](https://github.com/FreeFromGFW/FreeFromWechat/blob/master/proj_description.md)
 
+![](https://github.com/FreeFromGFW/FreeFromWechat/blob/master/%E6%B5%B7%E6%8A%A5.jpeg)
+
 > 天下苦微信久矣！
 
 新冠肺炎是自然灾难，但当对瘟疫的自由谈论被限制的时候，瘟疫就变成了政治灾难。
