@@ -1,5 +1,23 @@
 # FreeFromWeChat Manifesto
 
+![](https://github.com/FreeFromGFW/FreeFromWechat/blob/master/%E6%B5%B7%E6%8A%A5.jpeg)
+
+## Contents on the poster:
+We reject:
+- The omnipresent censorship and self-censorship
+- Overloaded social network and unpredictable snitches
+- Arbitrary termination of accounts and posts
+- Cutting off our contact with the World Wide Web
+
+We urge you: please invite your friends to register for Telegram, or bring your whole WeChat group over. You can join our Telegram newbies channel and explore the best practice in usingTelegram.
+
+Let us create a new world in a place with no surveillance.
+
+Rules of the movement: please post #freefromwechat + Telegram account detail + “Let us meet where there is no surveillance” to your WeChat Moments and other social media platforms
+
+
+---
+
 > WeChat is a Chinese multi-purpose messaging, social media and mobile payment app developed by Tencent. It was first released in 2011, and became one of the world's largest standalone mobile apps in 2018, with over 1 billion monthly active users. Wikipedia
 
 The novel coronavirus is an unforeseen epidemic. However, when discussions around this outbreak were restricted, the epidemic became a political catastrophe. 
@@ -25,9 +43,9 @@ Dr Li’s speech in a group chat, supposedly a private space, was enough to be d
 
 We are under censorship by WeChat, while WeChat is also under surveillance by the authorities. Therefore, for its own safety, WeChat decides to silence us beforehand. .
 
-The Citizen Lab at the University of Toronto found that WeChat does not stop us from sending messages, but prevents others from seeing them. It has been confirmed that in a group chat some messages can only be seen by some of the group members, while senders would not get any notification. WeChat is like a parent who always says: this is for your own good. WeChat makes the decision of what should be said or what should be seen for us, treating us like little children. 
+The Citizen Lab at the University of Toronto [found that]((https://citizenlab.ca/2016/12/%E4%B8%80app%E4%B8%A4%E5%88%B6%EF%BC%9A%E5%BE%AE%E4%BF%A1%E5%A6%82%E4%BD%95%E5%8C%BA%E5%88%AB%E5%AE%A1%E6%9F%A5%E4%B8%AD%E5%9B%BD%E5%8F%8A%E6%B5%B7%E5%A4%96%E7%94%A8%E6%88%B7/)) WeChat does not stop us from sending messages, but prevents others from seeing them. It has been confirmed that in a group chat some messages can only be seen by some of the group members, while senders would not get any notification. WeChat is like a parent who always says: this is for your own good. WeChat makes the decision of what should be said or what should be seen for us, treating us like little children. 
 
-Even before losing the ownership of our accounts, we have already lost full use rights of this product
+**Even before losing the ownership of our accounts, we have already lost full use rights of this product**
 
 ## A content ecosystem that may appear rich but does not drive valuable public discussion
 
