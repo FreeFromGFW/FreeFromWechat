@@ -1,6 +1,7 @@
 # 逃离微信宣言|FreeFromWechat Manifesto
 
 [项目说明](https://github.com/FreeFromGFW/FreeFromWechat/blob/master/proj_description.md)
+[English Version](https://github.com/FreeFromGFW/FreeFromWechat/blob/master/README_eng.md)
 
 ![](https://github.com/FreeFromGFW/FreeFromWechat/blob/master/%E6%B5%B7%E6%8A%A5.jpeg)
 
