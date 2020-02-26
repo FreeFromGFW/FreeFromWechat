@@ -1,6 +1,5 @@
 # FreeFromWeChat Manifesto
-
-Translated by Linda, JY, Xia
+[中文版](https://github.com/FreeFromGFW/FreeFromWechat/blob/master/README.md)
 
 ![](https://github.com/FreeFromGFW/FreeFromWechat/blob/master/%E6%B5%B7%E6%8A%A5.jpeg)
 
@@ -89,3 +88,6 @@ Digital immigration is like physical immigration in reality. It’s like enterin
 Welcome to join the Telegram newbies channel, and discuss the best practice in using Telegram:
 
 https://t.me/newbie_tele 
+
+*Translated by Linda, JY, Xia*
+
