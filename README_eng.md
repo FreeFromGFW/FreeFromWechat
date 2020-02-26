@@ -1,5 +1,7 @@
 # FreeFromWeChat Manifesto
 
+Translated by Linda, JY, Xia
+
 ![](https://github.com/FreeFromGFW/FreeFromWechat/blob/master/%E6%B5%B7%E6%8A%A5.jpeg)
 
 ## Contents on the poster:
